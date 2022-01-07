@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @DeividAlmeida
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mr.55davi@gmail.com
+# Olá, eu sou a Deivid Almeida! 👋
 
-<!---
-DeividAlmeida/DeividAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Sobre mim
+Eu sou um desenvolvedora full-stack amante da família Javascript 😍, mas tenho desenvolvido profissionalmente mais aplicações de backend com a stack php🐘.  Estou sembre aberto a novos desafios!!! 💪😁
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP, Node, MySQL, MongoDB, Vue.js, Express.js, Bootstrap  ...
+
+
+## Feedback
+
+Se você tiver algum feedback, por favor nos deixe saber por meio de mr.55davi@gmail.com
+
