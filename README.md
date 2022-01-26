@@ -10,5 +10,4 @@ Javascript, HTML, CSS, PHP, Node, MySQL, MongoDB, Vue.js, Express.js, Bootstrap 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de mr.55davi@gmail.com
-
+Se você tiver algum feedback, fique à vontade para abrir uma issue em qualquer um dos meus repositórios públicos 😆
