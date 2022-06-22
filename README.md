@@ -26,7 +26,7 @@
 # Olá, eu sou a Deivid Almeida! 👋
 
 ## 🚀 Sobre mim
-Eu sou um desenvolvedora full-stack amante da família Javascript 😍, mas tenho desenvolvido profissionalmente mais aplicações de backend com a stack php🐘.  Estou sembre aberto a novos desafios!!! 💪😁
+Eu sou um desenvolvedora full-stack amante da família Javascript 😍. Estou sembre aberto a novos desafios!!! 💪😁
 
 
 ## 🛠 Habilidades
