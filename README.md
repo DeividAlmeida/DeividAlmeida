@@ -15,8 +15,6 @@
   </div> 
 </div>
   
-  ![Snake animation](https://github.com/DeividAlmeida/DeividAlmeida/blob/output/github-contribution-grid-snake.svg)
-  
 # Hello, I'm Deivid Almeida! 👋
 
 ## 🚀 About Me
