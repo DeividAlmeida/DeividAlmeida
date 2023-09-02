@@ -23,16 +23,13 @@
   
   ![Snake animation](https://github.com/DeividAlmeida/DeividAlmeida/blob/output/github-contribution-grid-snake.svg)
   
-# Olá, eu sou a Deivid Almeida! 👋
+# Hello, I'm Deivid Almeida! 👋
 
-## 🚀 Sobre mim
-Sou desenvolvedor full-stack amante da família Javascript 😍. Estou sembre aberto a novos desafios!!! 💪😁
+## 🚀 About Me
+I'm a full-stack developer, technology, and innovation enthusiast. I'm always open to new challenges!!! 💪😁
 
-
-## 🛠 Habilidades
-Javascript, HTML, CSS, PHP, Node, MySQL, MongoDB, Vue.js, Express.js, Bootstrap  ...
-
+## 🛠 Skills
+Javascript, HTML, CSS, PHP, Node, MySQL, MongoDB, Vue.js, Express.js, Bootstrap ...
 
 ## Feedback
-
-Se você tiver algum feedback, fique à vontade para abrir uma issue em qualquer um dos meus repositórios públicos 😆
+If you have any feedback, please feel free to open an issue on any of my public repositories 😆
