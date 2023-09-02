@@ -1,5 +1,5 @@
  [![My Stats](https://github-readme-stats.vercel.app/api?username=DeividAlmeida&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)](https://github.com/DeividAlmeida)
- [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividAlmeida&layout=compact&langs_count=7&theme=prussian)
+ ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividAlmeida&layout=compact&langs_count=7&theme=prussian)
 <div align="center">
   <a href="https://github.com/DeividAlmeida">
   <div style="display: inline_block"><br>
